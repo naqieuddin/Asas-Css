@@ -28,6 +28,7 @@ h2{
     padding: 100px;
     flex-wrap: wrap;
     position: relative;
+    overflow: hidden;
 }
 
 .container1{
@@ -181,7 +182,7 @@ margin-left: 80px;
     position: absolute;
     left: 900px;
     top: 280px;
-    overflow: hidden;
+    
     
 }
 
