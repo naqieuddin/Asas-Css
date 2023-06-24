@@ -1,6 +1,6 @@
-# *Asas-CSS(Banner-styling)*
+# *Basic-CSS(Banner-styling)*
 
 https://naqieuddin.github.io/Asas-Css/
 
-Saya menghasilkan banner ini menggunakan segala ilmu berkaitan HTML dan CSS.
-Saya menggunakan apa-apa sahaja elemen HTML dan attribute CSS untuk mencapai objektif.
+I produced this banner with HTML and CSS.
+This task help me to enhcanced my understanding related to flexbox positioning.
