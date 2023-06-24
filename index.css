@@ -40,6 +40,8 @@
     z-index: 1;
 }
 
+
+
 .icon{
     display: flex;
     justify-content: space-evenly;
@@ -87,7 +89,7 @@ h1{
 }
 
 .warmups{
-    height: 250px;
+    height: 100%;
     width: 500px;
     background: none;
     display: flex;
@@ -194,6 +196,35 @@ h2{
     border: 60px solid #48596D;
     bottom: 500px;
     left: 1389px;
+}
+
+@media ( max-width:1440px){
+    .lorem{
+        left: 10%;
+
+    }
+
+    h1{
+        font-size: 130px;
+    }
+
+    .icon{
+        left: 9%;
+        bottom: 170px;
+    }
+
+    .creambox{
+        left: 20%;
+    }
+
+    .shadow1{
+        left: 550px;
+    }
+
+    .shadow2{
+        left: 1028px;
+    }
+
 }
 
 
