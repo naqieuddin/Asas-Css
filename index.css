@@ -6,7 +6,7 @@
 .container{
     height: 910px;
     width: auto;
-    background-color: #1E1E1E;;
+    background-color: black;
     display: flex;
     position: relative;
     overflow: hidden;
